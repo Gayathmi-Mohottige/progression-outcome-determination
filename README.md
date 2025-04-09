@@ -6,11 +6,6 @@ This is a Python-based console application that determines and records student p
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Progression Rules](#progression-rules)
-- [Sample Output](#sample-output)
-- [Credits](#credits)
 
 ---
 
